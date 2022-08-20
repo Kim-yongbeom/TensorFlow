@@ -1,11 +1,12 @@
 ```
 강의자료
 https://hunkim.github.io/ml/
+
+수업에 사용하는 코드 https://github.com/hunkim/DeepLearningZeroToAll
+tensorflow2 버전 코드 https://github.com/hunkim/DeepLearningZeroToAll/tree/master/tf2
 ```
 
 # 시즌 1 - 딥러닝의 기본 (TF 1.X lab 완료!) 비디오 리스트
-
-### 수업에 사용하는 코드 https://github.com/hunkim/DeepLearningZeroToAll
 
 ### ~~수업의 개요 비디오  슬라이드~~
 ### ~~머신러닝의 개념과 용어 비디오  (TensorFlow의 기본 Lab 비디오 ) 강의 슬라이드  Lab 슬라이드~~

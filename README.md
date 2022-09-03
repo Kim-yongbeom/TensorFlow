@@ -20,7 +20,7 @@ tensorflow2 버전 코드 https://github.com/hunkim/DeepLearningZeroToAll/tree/m
 ### ~~Softmax Regression (Multinomial Logistic Regression) 슬라이드  실습 슬라이드~~
 - ~~Multinomial 개념 소개 비디오~~
 - ~~Cost 함수 소개 비디오~~
-- Lab1: TensorFlow에서의 구현 비디오 
+- ~~Lab1: TensorFlow에서의 구현 비디오~~
 - Lab2: TensorFlow에서의 Fancy한 구현 비디오 
 ### ML의 실용과 몇가지 팁 강의 슬라이드  실습 슬라이드 
 - 학습 rate, Overfitting, 그리고 일반화 (Regularization) 비디오 

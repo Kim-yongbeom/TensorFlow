@@ -22,10 +22,10 @@ tensorflow2 버전 코드 https://github.com/hunkim/DeepLearningZeroToAll/tree/m
 - ~~Cost 함수 소개 비디오~~
 - ~~Lab1: TensorFlow에서의 구현 비디오~~
 - ~~Lab2: TensorFlow에서의 Fancy한 구현 비디오~~
-### ML의 실용과 몇가지 팁 강의 슬라이드  실습 슬라이드 
-- 학습 rate, Overfitting, 그리고 일반화 (Regularization) 비디오 
-- Training/Testing 데이타 셋 비디오 
-- Lab 1: TensorFlow에서의 구현 (학습 rate, training/test 셋으로 성능평가) 실습 비디오 1
+### ~~ML의 실용과 몇가지 팁 강의 슬라이드  실습 슬라이드~~
+- ~~학습 rate, Overfitting, 그리고 일반화 (Regularization) 비디오~~
+- ~~Training/Testing 데이타 셋 비디오~~
+- ~~Lab 1: TensorFlow에서의 구현 (학습 rate, training/test 셋으로 성능평가) 실습 비디오 1~~
 - Lab 2: Meet MNIST dataset 실습 비디오 2 
 ### 딥러닝의 기본 개념과, 문제, 그리고 해결 강의 슬라이드  실습 슬라이드 
 - 딥러닝의 기본 개념: 시작과 XOR 문제 비디오 

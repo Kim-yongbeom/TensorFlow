@@ -30,7 +30,7 @@ tensorflow2 버전 코드 https://github.com/hunkim/DeepLearningZeroToAll/tree/m
 ### ~~딥러닝의 기본 개념과, 문제, 그리고 해결 강의 슬라이드  실습 슬라이드~~
 - ~~딥러닝의 기본 개념: 시작과 XOR 문제 비디오~~
 - ~~딥러닝의 기본 개념2: Back-propagation 과 2006/2007 '딥'의 출현 비디오~~
-- Lab : Tensor Manipulation 실습 비디오 
+- ~~Lab : Tensor Manipulation 실습 비디오~~
 ### Neural Network 1: XOR 문제와 학습방법, Backpropagation (1986 breakthrough) 강의 슬라이드  실습 슬라이드 
 - XOR 문제 딥러닝으로 풀기 비디오 
 - 특별편: 10분안에 미분 정리하기 비디오 

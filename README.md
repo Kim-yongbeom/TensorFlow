@@ -35,7 +35,7 @@ tensorflow2 버전 코드 https://github.com/hunkim/DeepLearningZeroToAll/tree/m
 - ~~XOR 문제 딥러닝으로 풀기 비디오~~
 - ~~특별편: 10분안에 미분 정리하기 비디오~~
 - ~~딥넷트웍 학습 시키기 (backpropagation) 비디오~~
-- 실습1: XOR을 위한 텐스플로우 딥넷트웍 비디오 
+- ~~실습1: XOR을 위한 텐스플로우 딥넷트웍 비디오~~
 - 실습2: Tensor Board로 딥네트웍 들여다보기 비디오 
 ### Neural Network 2: ReLU and 초기값 정하기 (2006/2007 breakthrough) 강의 슬라이드  실습 슬라이드 
 - ~~XSigmoid 보다 ReLU가 더 좋아 비디오~~

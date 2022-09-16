@@ -40,7 +40,7 @@ tensorflow2 버전 코드 https://github.com/hunkim/DeepLearningZeroToAll/tree/m
 ### ~~Neural Network 2: ReLU and 초기값 정하기 (2006/2007 breakthrough) 강의 슬라이드  실습 슬라이드~~
 - ~~XSigmoid 보다 ReLU가 더 좋아 비디오~~
 - ~~Weight 초기화 잘해보자 비디오~~
-- Dropout 과 앙상블 비디오 
+- ~~Dropout 과 앙상블 비디오~~
 - 레고처럼 넷트웍 모듈을 마음껏 쌓아 보자 비디오 
 - 실습: 딥러닝으로 MNIST 98%이상 해보기 비디오 
 ### Convolutional Neural Networks 강의 슬라이드  실습 슬라이드 

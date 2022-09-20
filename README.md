@@ -45,7 +45,7 @@ tensorflow2 버전 코드 https://github.com/hunkim/DeepLearningZeroToAll/tree/m
 - ~~실습: 딥러닝으로 MNIST 98%이상 해보기 비디오~~
 ### ~~Convolutional Neural Networks 강의 슬라이드  실습 슬라이드~~
 - ~~ConvNet의 Conv 레이어 만들기 비디오~~
-- ConvNet Max pooling 과 Full Network 비디오 
+- ~~ConvNet Max pooling 과 Full Network 비디오~~
 - ConvNet의 활용예 비디오 
 - 실습1: TensorFlow CNN 의 기본 비디오 
 - 실습2: TensorFlow로 구현하자 (MNIST 99%) 비디오 
